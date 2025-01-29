@@ -1,0 +1,4 @@
+function greeting(name) {
+    console.log('hello  ${name}welcome to my walima');
+}
+greeting("imran");
